@@ -27,3 +27,8 @@ p,
   display: inline-block;
   text-align: center;
 }
+
+article,
+.conten1 {
+  border: 1-x solid black;
+}
