@@ -32,3 +32,10 @@ article,
 .conten1 {
   border: 1-x solid black;
 }
+article {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 900px;
+  margin-left: 20%;
+}
