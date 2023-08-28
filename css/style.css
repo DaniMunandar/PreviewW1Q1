@@ -13,3 +13,17 @@ body {
   color: white;
   padding: 15px;
 }
+
+img {
+  margin-top: 10px;
+  border-radius: 100%;
+  border: 5px solid whitesmoke;
+  width: 80px;
+  height: 100px;
+  box-shadow: 100px;
+}
+p,
+.isi {
+  display: inline-block;
+  text-align: center;
+}
